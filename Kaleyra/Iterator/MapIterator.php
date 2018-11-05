@@ -1,8 +1,8 @@
 <?php
 
-namespace Guzzle\Iterator;
+namespace Kaleyra\Iterator;
 
-use Guzzle\Common\Exception\InvalidArgumentException;
+use Kaleyra\Common\Exception\InvalidArgumentException;
 
 /**
  * Maps values before yielding
