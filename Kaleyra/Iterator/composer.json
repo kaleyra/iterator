@@ -4,13 +4,12 @@
     "license": "MIT",
     "require": {
         "php": ">=5.3.2",
-        "kaleyra/common": "dev-master#32ada4bac19cca084278fd95556f4078d16dec5a"
+        "kaleyra/common": "dev-master"
     },
     "autoload": {
-    	"files": ["kaleyra/iterator/Kaleyra/Iterator/MapIterator.php"],
-        "psr-4": { "Kaleyra\\Iterator": "kaleyra/iterator/Kaleyra/Iterator" }
+        "psr-4": { "Kaleyra\\Iterator": "Kaleyra/Iterator" }
     },
-    "target-dir": "kaleyra/iterator/Kaleyra/Iterator",
+    "target-dir": "Kaleyra/Iterator",
     "extra": {
         "branch-alias": {
             "dev-master": "dev-master#cdab4d3ff41ce31b68ee2fea4d4ba4d0bdeaece7"
