@@ -14,7 +14,7 @@
         "kaleyra/common": "dev-master#3087b33eba15c65cc7089f0a88802208ade264f4"
     },
     "autoload": {
-        "psr-0": { "Kaleyra\\Iterator": "/" }
+        "psr-4": { "Kaleyra\\Iterator": "/" }
     },
     "target-dir": "Kaleyra/Iterator",
     "extra": {
