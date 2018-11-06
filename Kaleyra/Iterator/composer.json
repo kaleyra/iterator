@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "kaleyra/common": "dev-master#c4c8902a7e83a763851128fe5c51b269592ebd5c"
+        "kaleyra/common": "dev-master#3087b33eba15c65cc7089f0a88802208ade264f4"
     },
     "autoload": {
         "psr-0": { "Kaleyra\\Iterator": "/" }
@@ -19,7 +19,7 @@
     "target-dir": "Kaleyra/Iterator",
     "extra": {
         "branch-alias": {
-            "dev-master": "dev-master#bcc838825fc6070988ed3e6a369e7016b91e7cbb"
+            "dev-master": "dev-master#31d315b158169aa186be0caf72b94c3e0c1265a5"
         }
     }
 }
