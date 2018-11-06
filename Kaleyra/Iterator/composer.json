@@ -12,7 +12,7 @@
     "target-dir": "Kaleyra/Iterator",
     "extra": {
         "branch-alias": {
-            "dev-master": "dev-master#cdab4d3ff41ce31b68ee2fea4d4ba4d0bdeaece7"
+            "dev-master": "HEAD"
         }
     }
 }
