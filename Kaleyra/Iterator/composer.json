@@ -2,19 +2,12 @@
     "name": "kaleyra/iterator",
     "description": "Provides helpful iterators and iterator decorators",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Michael Dowling",
-            "email": "mtdowling@gmail.com",
-            "homepage": "https://github.com/mtdowling"
-        }
-    ],
     "require": {
         "php": ">=5.3.2",
         "kaleyra/common": "dev-master#32ada4bac19cca084278fd95556f4078d16dec5a"
     },
     "autoload": {
-        "psr-4": { "Kaleyra\\Iterator": "/" }
+        "psr-4": { "Kaleyra\\Iterator": "kaleyra/iterator/Kaleyra/Iterator/" }
     },
     "target-dir": "kaleyra/iterator/Kaleyra/Iterator",
     "extra": {
