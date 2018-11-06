@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": { "Kaleyra\\Iterator": "/" }
     },
-    "target-dir": "Kaleyra/Iterator",
+    "target-dir": "kaleyra/iterator/Kaleyra/Iterator",
     "extra": {
         "branch-alias": {
             "dev-master": "dev-master#cdab4d3ff41ce31b68ee2fea4d4ba4d0bdeaece7"
