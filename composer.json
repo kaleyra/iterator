@@ -7,7 +7,7 @@
         "kaleyra/common": "dev-master"
     },
     "autoload": {
-        "psr-4": { "Kaleyra\\Iterator": "/" }
+        "psr-4": { "Kaleyra\\Iterator\\": "" }
     },
     "extra": {
         "branch-alias": {
