@@ -9,7 +9,6 @@
     "autoload": {
         "psr-4": { "Kaleyra\\Iterator": "/" }
     },
-    "target-dir": "Kaleyra/Iterator",
     "extra": {
         "branch-alias": {
             "dev-master": "HEAD"
