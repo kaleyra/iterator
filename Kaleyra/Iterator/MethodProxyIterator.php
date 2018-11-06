@@ -1,6 +1,6 @@
 <?php
 
-namespace Guzzle\Iterator;
+namespace Kaleyra\Iterator;
 
 /**
  * Proxies missing method calls to the innermost iterator

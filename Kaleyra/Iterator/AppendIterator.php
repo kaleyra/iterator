@@ -1,6 +1,6 @@
 <?php
 
-namespace Guzzle\Iterator;
+namespace Kaleyra\Iterator;
 
 /**
  * AppendIterator that is not affected by https://bugs.php.net/bug.php?id=49104
